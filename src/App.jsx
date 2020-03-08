@@ -89,7 +89,7 @@ class App extends React.Component {
           data={this.state.grades}
         />
       );
-    }
+    }*/
 
     return (
       <div>
